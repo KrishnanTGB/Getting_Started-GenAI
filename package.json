@@ -1,0 +1,14 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishnan T G B",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.1"
+  }
+}
