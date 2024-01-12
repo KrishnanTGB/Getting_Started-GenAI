@@ -1,2 +1,2 @@
 # Getting_Started-GenAI
-Sample files to connect with Gen AI Services
+Sample code that helps to connect with Gen AI Services
